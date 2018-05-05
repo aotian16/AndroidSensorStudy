@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AndroidSensorStudy</string>
     <string name="title_activity_light_sensor">LightSensorActivity</string>
+    <string name="title_activity_sensor_list">SensorListActivity</string>
 </resources>

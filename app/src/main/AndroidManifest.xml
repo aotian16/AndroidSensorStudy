@@ -25,6 +25,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.qefee.androidsensorstudy.MainActivity" />
         </activity>
+        <activity
+            android:name=".activity.SensorListActivity"
+            android:label="@string/title_activity_sensor_list"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.qefee.androidsensorstudy.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
